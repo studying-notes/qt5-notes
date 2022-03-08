@@ -77,5 +77,6 @@ draft: false  # 草稿
 
 - [HTTP 请求](libraries/standard/network/http.md)
 - [JSON 解析](libraries/standard/json.md)
+- [QSharedMemory 共享内存段](libraries/standard/QSharedMemory.md)
 
 ## 第三方库
