@@ -5,7 +5,7 @@ Qt.include("http_client.js")
 
 function httpGetExample() {
     HttpClient.get(
-        "http://localhost:2780/get",
+        "https://httpbin.org/get",
         function (responseText) {
             console.log(responseText);
         },
@@ -15,7 +15,7 @@ function httpGetExample() {
 
 function httpPostExample() {
     HttpClient.post(
-        "http://localhost:2780/post",
+        "https://httpbin.org/post",
         function (responseText) {
             console.log(responseText);
         },
@@ -27,7 +27,7 @@ function httpPostExample() {
 
 function httpPostStudent(form) {
     HttpClient.post(
-        "http://localhost:2780/post",
+        "https://httpbin.org/post",
         function (responseText) {
             console.log(responseText);
         },

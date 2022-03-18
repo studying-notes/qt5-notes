@@ -119,7 +119,7 @@ Item {									//QML通用的根元素
             }
             Button {							/* 命令按钮 */
                 id: buttonSubmit
-                anchors.right: groupBoxHobby.right	//与“爱好”组框右边框锚定
+                Layout.alignment : Qt.AlignLeft	//与“爱好”组框右边框锚定
                 text: "提交"
             }
         }
