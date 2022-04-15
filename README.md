@@ -39,7 +39,7 @@ draft: false  # 草稿
 ## 基础用法
 
 - [用 windeployqt 进行 Qt 的打包发布](quickstart/release.md)
-
+- [根据内存地址找出奔溃代码行](quickstart/crash.md)
 
 
 ## 基础语法
