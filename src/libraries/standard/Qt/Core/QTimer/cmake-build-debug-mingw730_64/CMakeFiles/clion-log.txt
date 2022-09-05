@@ -1,0 +1,14 @@
+C:\Users\Admin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\Admin\OneDrive\Repositories\projects\examples\qt5\Objects\QTimer -B C:\Users\Admin\OneDrive\Repositories\projects\examples\qt5\Objects\QTimer\cmake-build-debug-mingw730_64
+-- CMAKE_VERSION: 3.23.2
+-- PROJECT_SOURCE_DIR: C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer
+-- CMAKE_SOURCE_DIR: C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer
+-- CMAKE_HOST_SYSTEM_NAME: Windows
+-- CMAKE_HOST_SYSTEM_PROCESSOR: AMD64
+-- CMAKE_HOST_SYSTEM_VERSION: 10.0.19044
+-- CMAKE_PREFIX_PATH: C:/Qt/Qt5.12.6/5.12.6/mingw73_64
+-- PATH: C:/Qt/Qt5.12.6/5.12.6/mingw73_64/bin;C:/Qt/Qt5.12.6/Tools/mingw730_64/bin;%PATH%
+-- QML2_IMPORT_PATH: C:/Qt/Qt5.12.6/5.12.6/mingw73_64/qml
+-- On Clion, you should set QT_ASSUME_STDERR_HAS_CONSOLE=1;QT_DEBUG_PLUGINS=0;PATH=C:/Qt/Qt5.12.6/5.12.6/mingw73_64/bin\;C:/Qt/Qt5.12.6/Tools/mingw730_64/bin;QML2_IMPORT_PATH=C:/Qt/Qt5.12.6/5.12.6/mingw73_64/qml
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64

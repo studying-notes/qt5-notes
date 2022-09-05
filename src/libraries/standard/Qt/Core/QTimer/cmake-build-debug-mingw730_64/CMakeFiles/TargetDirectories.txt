@@ -1,0 +1,4 @@
+C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/qtimer.dir
+C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/edit_cache.dir
+C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/qtimer_autogen.dir

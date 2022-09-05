@@ -1,0 +1,129 @@
+{
+	"BUILD_DIR" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/qtimer_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer",
+	"CMAKE_EXECUTABLE" : "C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/CMakeLists.txt",
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/3.23.2/CMakeSystem.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/3.23.2/CMakeCCompiler.cmake",
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/3.23.2/CMakeRCCompiler.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfigVersion.cmake",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/qtimer_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/qtimer_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_WEBSOCKETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64",
+		"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/include",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/include/QtCore",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/mkspecs/win32-g++",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/include/QtConcurrent",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/include/QtNetwork",
+		"C:/Qt/Qt5.12.6/5.12.6/mingw73_64/include/QtWebSockets",
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Qt5.12.6/Tools/mingw730_64/bin/c++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/qtimer_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/qtimer_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt5.12.6/5.12.6/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64/CMakeFiles/qtimer_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/main.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

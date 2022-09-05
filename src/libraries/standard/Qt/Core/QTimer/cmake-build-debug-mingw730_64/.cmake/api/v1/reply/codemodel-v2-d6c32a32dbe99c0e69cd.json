@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtimer",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtimer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtimer-Debug-69a0117da545d96ea8a1.json",
+					"name" : "qtimer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtimer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtimer_autogen-Debug-eeb505e26eb1e86d6abb.json",
+					"name" : "qtimer_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer/cmake-build-debug-mingw730_64",
+		"source" : "C:/Users/Admin/OneDrive/Repositories/projects/examples/qt5/Objects/QTimer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
