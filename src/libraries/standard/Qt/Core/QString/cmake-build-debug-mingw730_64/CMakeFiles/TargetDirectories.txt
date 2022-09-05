@@ -1,0 +1,4 @@
+C:/Users/Admin/OneDrive/Repositories/projects/todo/qt5/src/libraries/standard/Qt/Core/QString/cmake-build-debug-mingw730_64/CMakeFiles/qstring.dir
+C:/Users/Admin/OneDrive/Repositories/projects/todo/qt5/src/libraries/standard/Qt/Core/QString/cmake-build-debug-mingw730_64/CMakeFiles/edit_cache.dir
+C:/Users/Admin/OneDrive/Repositories/projects/todo/qt5/src/libraries/standard/Qt/Core/QString/cmake-build-debug-mingw730_64/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/OneDrive/Repositories/projects/todo/qt5/src/libraries/standard/Qt/Core/QString/cmake-build-debug-mingw730_64/CMakeFiles/qstring_autogen.dir

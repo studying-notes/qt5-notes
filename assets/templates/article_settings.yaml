@@ -1,6 +1,5 @@
-tags: [ "Qt5", "C++" ]  # 标签
-series: [ "Qt5 学习笔记" ]  # 系列
-categories: [ "学习笔记" ]  # 分类
+tags: [ "qt5", "{tag}" ]  # 标签
+categories: [ "Qt5 学习笔记" ]  # 分类
 
 toc: true  # 目录
-draft: false  # 草稿
+draft: true  # 草稿

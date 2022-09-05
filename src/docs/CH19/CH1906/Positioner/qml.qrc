@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>MainForm.ui.qml</file>
-        <file>RedRectangle.qml</file>
-        <file>GreenRectangle.qml</file>
-        <file>BlueRectangle.qml</file>
-    </qresource>
-</RCC>
