@@ -14,7 +14,7 @@ public:
 
 public slots:
   void run() {
-    qDebug()<<"SSL Library Build Version"<<QSslSocket::sslLibraryBuildVersionString();
+    qDebug() << "SSL Library Build Version" << QSslSocket::sslLibraryBuildVersionString();
 
     QNetworkAccessManager *manager = new QNetworkAccessManager();
 
@@ -26,7 +26,7 @@ public slots:
 
     QNetworkRequest request;
     request.setUrl(QUrl("https://api.textin.com/robot/v1.0/api/passport"));
-request.setHeader(QNetworkRequest::ContentTypeHeader, "image/jpeg");
+    request.setHeader(QNetworkRequest::ContentTypeHeader, "image/jpeg");
     request.setRawHeader("x-ti-app-id", "59dc5f9738d6dce87d630b6b2c380492");
     request.setRawHeader("x-ti-secret-code", "387c70861bdab85474c8b31f980b7e99");
 
