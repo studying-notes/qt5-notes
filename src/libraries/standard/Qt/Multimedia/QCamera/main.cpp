@@ -12,7 +12,7 @@ public:
 public slots:
   void run() {
     QCamera *camera;
-    QString cameraName = R"(@device:pnp:\\?\usb#vid_2bcf&pid_c002&mi_00#7&1a49e417&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global)";
+    QString cameraName = R"(@device:pnp:\\?\usb#vid_1bcf&pid_c002&mi_00#7&2827e01b&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global)";
 
     const QList<QCameraInfo> cameras = QCameraInfo::availableCameras();
     for (const QCameraInfo &cameraInfo : cameras) {

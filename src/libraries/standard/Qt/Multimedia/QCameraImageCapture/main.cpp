@@ -1,7 +1,9 @@
+#include <QBuffer>
 #include <QCamera>
 #include <QCameraImageCapture>
 #include <QCameraInfo>
 #include <QCoreApplication>
+#include <QImageWriter>
 #include <QTimer>
 
 class Core : public QObject {
@@ -15,8 +17,26 @@ public slots:
     auto camera = new QCamera;
     auto imageCapture = new QCameraImageCapture(camera);
 
+    // 不保存图片
+    imageCapture->setCaptureDestination(QCameraImageCapture::CaptureToBuffer);
+
+    connect(imageCapture, &QCameraImageCapture::imageAvailable, [=](int id, const QVideoFrame &frame) {
+      qDebug() << "Image available";
+    });
+
     connect(imageCapture, &QCameraImageCapture::imageCaptured, [=](int id, const QImage &preview) {
-      qDebug() << "Image captured";
+      qDebug() << "Image captured:" << id;
+      qDebug() << "Image size:" << preview.size();
+
+      QImageWriter writer;
+      writer.setFormat("jpg");
+      writer.setQuality(100);
+      QByteArray ba;
+      QBuffer buffer(&ba);
+      buffer.open(QIODevice::WriteOnly);
+      writer.setDevice(&buffer);
+      writer.write(preview);
+      buffer.close();
     });
 
     connect(imageCapture, &QCameraImageCapture::imageSaved, [=](int id, const QString &fileName) {
